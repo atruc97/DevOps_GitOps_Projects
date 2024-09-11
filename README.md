@@ -1,2 +1,0 @@
-# DevOps_GitOps_Projects
-DevOps_GitOps_Projects
